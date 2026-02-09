@@ -1,6 +1,10 @@
-# Youtube mobile in basilisk
+# YouTube Mobile Redirector for Basilisk
 
-A lightweight basilisk browser extension that automatically redirects YouTube to its mobile version, providing a faster, simpler, and data-friendly browsing experience.
+A lightweight Basilisk browser extension that automatically redirects YouTube to its mobile version, providing a faster, simpler, and data-friendly browsing experience.
 
-## Example
-[](https://raw.githubusercontent.com/IamJony/semi-nord-theme-bluefish/refs/heads/main/Screenshot_2026-02-09-12-25-53_1366x768.png).
+## Screenshots
+
+![YouTube Desktop Version](https://raw.githubusercontent.com/IamJony/semi-nord-theme-bluefish/refs/heads/main/Screenshot_2026-02-09-12-25-53_1366x768.png)
+
+![YouTube Mobile Version](https://raw.githubusercontent.com/IamJony/semi-nord-theme-bluefish/refs/heads/main/Screenshot_2026-02-09-12-26-21_1366x768.png)
+
