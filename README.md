@@ -1,6 +1,6 @@
-# YouTube Mobile Redirector for Basilisk
+# YouTube Mobile Redirector for Basilisk and Pale Moon web browser
 
-A lightweight Basilisk (2026.01.23) browser extension that automatically redirects YouTube to its mobile version, providing a faster, simpler. 
+A lightweight Basilisk (2026.01.23) and Pale Moon browser extension that automatically redirects YouTube to its mobile version, providing a faster, simpler. 
 
 ## Screenshots
 
